@@ -52,7 +52,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssertAssemblyStructure.cs" />
     <Compile Include="AssertStructure.cs" />
+    <Compile Include="AssertTypesStructure.cs" />
     <Compile Include="ForbiddenDependencyException.cs" />
     <Compile Include="TypeDefinitionExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
