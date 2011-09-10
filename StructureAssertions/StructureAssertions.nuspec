@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Daniel Kolman</authors>
+    <owners>Daniel Kolman</owners>
+    <projectUrl>https://github.com/kolman/StructureAssertions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2011</copyright>
+    <tags>Dependency Test</tags>
+  </metadata>
+</package>
