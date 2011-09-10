@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureAssertions", "StructureAssertions\StructureAssertions.csproj", "{FAAB328E-6932-4657-96EA-CC5DE413B2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureAssertions.Test", "StructureAssertions.Test\StructureAssertions.Test.csproj", "{979FB654-3DE8-45C8-BE5F-F6AFC47E5253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAB328E-6932-4657-96EA-CC5DE413B2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAB328E-6932-4657-96EA-CC5DE413B2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAB328E-6932-4657-96EA-CC5DE413B2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAB328E-6932-4657-96EA-CC5DE413B2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979FB654-3DE8-45C8-BE5F-F6AFC47E5253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979FB654-3DE8-45C8-BE5F-F6AFC47E5253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979FB654-3DE8-45C8-BE5F-F6AFC47E5253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979FB654-3DE8-45C8-BE5F-F6AFC47E5253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
