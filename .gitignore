@@ -35,6 +35,7 @@ App_Data/
 
 #NuGet files
 *.nupkg
+packages/
 
 #Tooling
 _ReSharper*/
