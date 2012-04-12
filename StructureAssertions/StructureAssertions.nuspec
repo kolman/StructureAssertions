@@ -12,6 +12,9 @@
     <releaseNotes>Excluding StructureAssertions.Test from NuGet package</releaseNotes>
     <copyright>Copyright 2011-2012</copyright>
     <tags>Dependency Test</tags>
+    <dependencies>
+      <dependency id="Mono.Cecil" version="0.9.5.0" />
+    </dependencies>
   </metadata>
   <files>
     <file src="..\build\Release\StructureAssertions.dll" target="lib" />
