@@ -1,15 +1,19 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>StructureAssertions</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>StructureAssertions</title>
     <authors>Daniel Kolman</authors>
     <owners>Daniel Kolman</owners>
     <projectUrl>https://github.com/kolman/StructureAssertions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <copyright>Copyright 2011</copyright>
+    <description>Library of static analysis assertions for .NET unit tests</description>
+    <releaseNotes>Excluding StructureAssertions.Test from NuGet package</releaseNotes>
+    <copyright>Copyright 2011-2012</copyright>
     <tags>Dependency Test</tags>
   </metadata>
+  <files>
+    <file src="..\build\Release\StructureAssertions.dll" target="lib" />
+  </files>
 </package>
